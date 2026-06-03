@@ -124,8 +124,8 @@ These projects were developed as part of my programming learning journey and dem
 
 Suriyaa Sivakumar
 
-B.Tech Electrical and Electronics Engineering (EEE)
+B.Tech Electrical and Electronics Engineering (EEE),
 SRM Institute of Science and Technology
 
-BS Degree in Data Science and Applications
+BS Degree in Data Science and Applications,
 Indian Institute of Technology Madras
